@@ -1,0 +1,7 @@
+{
+  "name": "@plus-/foo",
+  "version": "0.2.0",
+  "dependencies": {
+    "@plus-/bar": "workspace:*"
+  }
+}
